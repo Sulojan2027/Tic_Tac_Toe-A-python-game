@@ -64,9 +64,6 @@ Computer's turn...
 - Add **Graphical User Interface (GUI)** using Tkinter or Pygame.
 - Implement a **two-player mode**.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 Feel free to fork this repository, improve the game, and submit a pull request!
 
