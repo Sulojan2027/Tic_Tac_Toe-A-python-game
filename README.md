@@ -4,7 +4,7 @@ A simple **Tic Tac Toe** game implemented in Python. The game allows a human pla
 
 ## Features
 - **Human vs Computer** gameplay.
-- **Random AI Move Selection** for the computer.
+- **Random Move Selection** for the computer.
 - **Auto-detection of Wins, Losses, and Draws**.
 - **Command-line based interface**.
 
