@@ -1,6 +1,7 @@
 # Tic Tac Toe (Python)
 
 A simple **Tic Tac Toe** game implemented in Python. The game allows a human player to compete against a computer opponent.
+I created this for the "Cisco Python Essentials" course final project.
 
 ## Features
 - **Human vs Computer** gameplay.
